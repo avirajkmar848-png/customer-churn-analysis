@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+exported_churn_data.csv
+exported_churn_date.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
